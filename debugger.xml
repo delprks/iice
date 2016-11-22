@@ -1,0 +1,13 @@
+<application>
+  <component name="DebuggerSettings">
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <option name="WATCH_RETURN_VALUES" value="true" />
+    <option name="AUTO_VARIABLES_MODE" value="true" />
+  </component>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general />
+  </component>
+</application>

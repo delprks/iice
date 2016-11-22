@@ -1,0 +1,142 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" project-jdk-name="1.7" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.0" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/cloud-workspace/Filesearcher" value="1451469941000" />
+            <entry key="$USER_HOME$/scala-workspace/blur" value="1461593555000" />
+            <entry key="$USER_HOME$/scala-workspace/playlister-service" value="1462279603000" />
+            <entry key="$USER_HOME$/scala-workspace/scala-api-clients-lib" value="1461073613000" />
+            <entry key="$USER_HOME$/scala-workspace/scala-commons-lib" value="1461074585000" />
+            <entry key="$USER_HOME$/scala-workspace/suede" value="1462357259000" />
+            <entry key="$USER_HOME$/workspace/Actors" value="1472548473000" />
+            <entry key="$USER_HOME$/workspace/akka-sample-main-scala" value="1469553876000" />
+            <entry key="$USER_HOME$/workspace/blur" value="1477998988000" />
+            <entry key="$USER_HOME$/workspace/lush" value="1471945861000" />
+            <entry key="$USER_HOME$/workspace/playlister-service" value="1462889727000" />
+            <entry key="$USER_HOME$/workspace/pulp" value="1475146558000" />
+            <entry key="$USER_HOME$/workspace/rmp-export-service" value="1464093488000" />
+            <entry key="$USER_HOME$/workspace/rms-cast" value="1478865784000" />
+            <entry key="$USER_HOME$/workspace/rms-podcast-client" value="1479130043000" />
+            <entry key="$USER_HOME$/workspace/rms-uas-client" value="1479821013000" />
+            <entry key="$USER_HOME$/workspace/rmservices-load-tests" value="1463666390000" />
+            <entry key="$USER_HOME$/workspace/scala-api-clients" value="1462890092000" />
+            <entry key="$USER_HOME$/workspace/scala-api-clients-lib" value="1475146572000" />
+            <entry key="$USER_HOME$/workspace/scala-commons-lib" value="1473170559000" />
+            <entry key="$USER_HOME$/workspace/scala-title-engine-lib" value="1465290909000" />
+            <entry key="$USER_HOME$/workspace/suede" value="1477479989000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customLauncherPath" value="/usr/local/Cellar/sbt/0.13.11/libexec/sbt-launch.jar" />
+        <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>scala-sdk-2.11.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
