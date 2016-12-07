@@ -99,9 +99,6 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
-  <action id="GotoNextBookmark">
-    <keyboard-shortcut first-keystroke="ctrl 1" />
-  </action>
   <action id="GotoNextError" />
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="ctrl 2" />
@@ -125,7 +122,9 @@
   <action id="PhpNewClass">
     <keyboard-shortcut first-keystroke="meta alt n" />
   </action>
-  <action id="Refactorings.QuickListPopupAction" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl l" />
