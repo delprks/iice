@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Users/parksd01/cloud-workspace/music-tracks-webapp/web/assets/translations/bundles'" />
-    <option name="defaultScopeName" value="Directory '/Users/parksd01/cloud-workspace/music-tracks-webapp/web/assets/translations/bundles'" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/parksd01/cloud-workspace/music-tracks-webapp/web/assets/translations/bundles'" />
+    <option name="customScope" value="Project 'rms-cast'" />
+    <option name="defaultScopeName" value="Project 'rms-cast'" />
+    <option name="SEARCH_SCOPE" value="Project 'rms-cast'" />
   </component>
 </application>
