@@ -1,17 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="instance-config" type="Bash" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="spv" type="PHP" />
       <mapping pattern="Collection" type="PLAIN_TEXT" />
       <mapping pattern="user__authenticator__single" type="PLAIN_TEXT" />
@@ -38,14 +27,25 @@
       <mapping pattern="GET_https___pips_443_ibroadcast2_arbiter_users_iain_wells_40bbc_co_uk_" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="GET_http___nitro_int_api_bbci_co_uk_80_nitro_api_schedules__pid_p00nsmdk_api_key_cas8f5t3wkjzu2ecxukdr8z5" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="dylib" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
-      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="dylib" type="UNKNOWN" />
       <mapping pattern="test" type="XML" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="instance-config" type="Bash" />
     </extensionMap>
   </component>
 </application>
